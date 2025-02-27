@@ -1,0 +1,28 @@
+div {
+    background-color: green;
+}
+.headline {
+    background: yellow;
+    color: black;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.emphasis {
+    color: green;
+}
+#recipe {
+    background-color: red;
+    width: auto;
+}
+div .Introduction {
+    background-color: brown;
+    height: auto;
+}
+.Introduction .Firstsentence {
+    color: white;
+}
+#good {
+    text-align: center;
+    font-weight: bold;
+    font-size: large;
+}
